@@ -1,0 +1,23 @@
+img {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    margin-bottom: 10px;
+    max-height: 350px;
+    max-width: 250px;
+}
+
+h2 {
+    max-width: 300px;
+}
+
+li {
+    width: 350px;
+    height: 500px;
+    list-style: none;
+    display: inline-block;
+}
+
+p {
+    max-width: 230px;
+}
